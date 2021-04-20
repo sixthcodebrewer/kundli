@@ -73,3 +73,10 @@ span.wave {
     width: 100%;
     height: 100%;
 }
+
+a.navbar-brand {
+    position: relative; 
+    top: -13px;
+    transition: none 0s ease 0s;
+    cursor: pointer;
+}
