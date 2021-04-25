@@ -3816,6 +3816,13 @@ h2.title {
     margin-bottom: 12vh;
 }
 
+
+.hero1 {
+    margin-top: 5vh;
+    margin-bottom: 4vh;
+}
+
+
 .cover {
     margin-top: 5em;
     margin-bottom: 2rem;
@@ -5203,7 +5210,7 @@ h2.title {
 }
 
 .underlined:hover {
-    background-size: 100% 100%;
+    background-size: 100% 80%;
 }
 
 .underlined--thin {
