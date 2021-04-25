@@ -79,6 +79,8 @@ a.navbar-brand {
     top: -13px;
     transition: none 0s ease 0s;
     cursor: pointer;
+    height: auto;
+    width: auto;
     
 }
 
